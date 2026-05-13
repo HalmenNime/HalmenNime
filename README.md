@@ -30,16 +30,3 @@
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=halmennime&show_icons=true&locale=en&layout=compact&theme=dark" alt="halmennime" />
 </p>
-
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=halmennime&show_icons=true&locale=en&theme=dark" alt="halmennime" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=halmennime&theme=dark" alt="halmennime" />
-</p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=halmennime&show_icons=true&locale=en&layout=compact" alt="halmennime" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=halmennime&show_icons=true&locale=en" alt="halmennime" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=halmennime&" alt="halmennime" /></p>
